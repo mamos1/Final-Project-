@@ -1,2 +1,2 @@
-# Final Project Bosses
+# Final Project - New Years Resolution Tweets
  Final Poject - DS
